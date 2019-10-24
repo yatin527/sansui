@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "File name is $0"
-echo "User name is $1"
-echo "Password i"s $2
+echo "USERNAME is $1"
+echo "PASSWORD is $2"
 
 mvn package
