@@ -2,5 +2,3 @@
 echo "File name is $0"
 echo "USERNAME is $1"
 echo "PASSWORD is $2"
-
-mvn package
